@@ -1,0 +1,26 @@
+button{ 
+	margin-top: 18px; 
+	padding: 8px 15px 8px 15px; 
+	border: solid 1px #000000; 
+	background-color: #FFA500;
+	color: #FFFFFF;
+}
+
+button:hover{
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+	background-color: #FFFFFF; 
+	color: #FFA500;
+	/*ENLARGE THIS*/
+}
+
+a{
+	margin-left: 1270px;
+}
+
+#btnImage:hover{
+	box-shadow: 15px 11px 15px 11px rgba(0,0,0,0.24), 0 16px 75px 0 rgba(0,0,0,0.19);
+}
+
+.topNav{
+	box-shadow: 0px 10px 25px 0px #000000;
+}
